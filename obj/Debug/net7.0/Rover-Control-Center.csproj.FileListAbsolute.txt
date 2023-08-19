@@ -1,0 +1,15 @@
+C:\Users\mbate\Projects\Rover-Control-Center\obj\Debug\net7.0\Rover-Control-Center.csproj.AssemblyReference.cache
+C:\Users\mbate\Projects\Rover-Control-Center\obj\Debug\net7.0\Rover-Control-Center.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbate\Projects\Rover-Control-Center\obj\Debug\net7.0\Rover-Control-Center.AssemblyInfoInputs.cache
+C:\Users\mbate\Projects\Rover-Control-Center\obj\Debug\net7.0\Rover-Control-Center.AssemblyInfo.cs
+C:\Users\mbate\Projects\Rover-Control-Center\obj\Debug\net7.0\Rover-Control-Center.csproj.CoreCompileInputs.cache
+C:\Users\mbate\Projects\Rover-Control-Center\bin\Debug\net7.0\Rover-Control-Center.exe
+C:\Users\mbate\Projects\Rover-Control-Center\bin\Debug\net7.0\Rover-Control-Center.deps.json
+C:\Users\mbate\Projects\Rover-Control-Center\bin\Debug\net7.0\Rover-Control-Center.runtimeconfig.json
+C:\Users\mbate\Projects\Rover-Control-Center\bin\Debug\net7.0\Rover-Control-Center.dll
+C:\Users\mbate\Projects\Rover-Control-Center\bin\Debug\net7.0\Rover-Control-Center.pdb
+C:\Users\mbate\Projects\Rover-Control-Center\obj\Debug\net7.0\Rover-Control-Center.dll
+C:\Users\mbate\Projects\Rover-Control-Center\obj\Debug\net7.0\refint\Rover-Control-Center.dll
+C:\Users\mbate\Projects\Rover-Control-Center\obj\Debug\net7.0\Rover-Control-Center.pdb
+C:\Users\mbate\Projects\Rover-Control-Center\obj\Debug\net7.0\Rover-Control-Center.genruntimeconfig.cache
+C:\Users\mbate\Projects\Rover-Control-Center\obj\Debug\net7.0\ref\Rover-Control-Center.dll
